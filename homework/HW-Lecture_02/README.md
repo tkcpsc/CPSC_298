@@ -1,0 +1,1 @@
+https://github.com/tkcpsc/CPSC_298/blob/master/lectures/lecture02.md
